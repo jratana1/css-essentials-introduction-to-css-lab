@@ -2,7 +2,7 @@
 body {
   /* Your code here! */
   font-family: Georgia;
-  background-color: lightblue
+  background-color: #00b3e6
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
@@ -10,7 +10,7 @@ div {
   /* Your code here! */
   width: 700px;
   margin: auto;
-  background-color: white;
+  background: white;
   padding: 30px;
   font-family: "Helvetica Neue";
 }
